@@ -14,7 +14,7 @@ Data can be easily download from the following links:
 
 
 Train | Valid | Test
--     | -     | -
+-|-|-
 __[Images Train](https://drive.google.com/open?id=1r0G39tYaSe7fObGIw6vlxUhv-HkENu4W)__ | __[Images Valid](https://drive.google.com/open?id=1_eMoeMi4KjTbcZpBr1Elz8gNU5SNIyiD)__ | __[Images Test](https://drive.google.com/open?id=1yLGqMixFsqzVznWU8rWrJ9ZHjVDIDTxG)__
 __[Labels Train](https://drive.google.com/open?id=1BEIuwRmS3Md1FgtdW6_45xiH-ysOWjV4)__ | __[Labels Valid](https://drive.google.com/open?id=19SS_jVTPqISO36R6Gia58MSAxAOT4-a8)__ | __[Labels Test](https://drive.google.com/open?id=1KGBMlxxA7b6m2rOIIM3DH2462ZUsP96z)__ 
 
