@@ -250,7 +250,7 @@ model_trained = train_model(model,criterion,optimizer,5)
 #### **Changing Optimizer**
 
 **optim.Adam(model.fc.parameters())** | **optim.Adam(model.parameters())**
-- | -
+-|-
 <img src='gallery/m1.jpg'> | <img src='gallery/m2.jpg'>
 <img src='gallery/ac(Leakyrelu) test.jpg'> | <img src='gallery/m2(conf).jpg'>
 ✔️ | ❌
@@ -258,7 +258,7 @@ model_trained = train_model(model,criterion,optimizer,5)
 #### **Changing the activation function**
 
 **LeakyReLU** | **ReLU**
-- | -
+-|-
 <img src='gallery/ac(Leakyrelu).jpg'> | <img src='gallery/ac(relu).jpg'>
 <img src='gallery/ac(Leakyrelu) test.jpg'> | <img src='gallery/ac(relu) test.jpg'>
 ✔️ | ❌
@@ -266,7 +266,7 @@ model_trained = train_model(model,criterion,optimizer,5)
 #### **Changing batch size**
 
 **Batch Size = 16** | **Batch Size = 8**
-- | -
+-|-
 <img src='gallery/m1.jpg'> | <img src='gallery/batch 8.jpg'>
 <img src='gallery/ac(Leakyrelu) test.jpg'> | <img src='gallery/batch 8 test.jpg'>
 ✔️ | ❌
