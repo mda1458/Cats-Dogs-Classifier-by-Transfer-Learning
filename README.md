@@ -423,6 +423,6 @@ gr.Interface(fn=predict,
 ## Try My App by clicking the button below
 ---
 
-'https://huggingface.co/spaces/mda1458/Cats_vs_Dogs'
+'https://huggingface.co/spaces/mda1458/cats_dogs_classifier_app'
 
 # Thank You
